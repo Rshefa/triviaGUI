@@ -1,9 +1,7 @@
 public class Main {
-
     public static void main(String[] args) {
-//        Dogs dog = new Dogs("poodle");
-        System
-       // MyWeatherGUI gui = new MyWeatherGUI();
+        TriviaGUI temp = new TriviaGUI();
+        tempParser temp2 = new tempParser();
+        temp2.plswork();
     }
-
 }
